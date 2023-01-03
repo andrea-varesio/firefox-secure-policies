@@ -51,4 +51,4 @@ $ rm -rf $HOME/.mozilla
 ## LICENSE
 Mozilla Public License Version 2.0
 
-Copyright (c) 2022 Andrea Varesio <https://www.andreavaresio.com>
+Copyright (c) 2022-2023 Andrea Varesio <https://www.andreavaresio.com>
