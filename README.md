@@ -40,7 +40,7 @@ $ rm -rf $HOME/.mozilla
 **A:** Add an exception for your desired addon in `"ExtensionSettings"` or follow the suggestion for the question above.
 
 **Q:** **How to change the default search engine.**<br />
-**A:** Find the `"SearchEngines"` policy and edit `"Default": "StartPage (POST)"` accordingly.
+**A:** Find the `"SearchEngines"` policy and edit `"Default": "StartPage"` accordingly.
 
 **Q:** **How to disable automatic installation of addons.**<br />
 **A:** Find the `"ExtensionSettings"` policy and change the value of `"installation_mode"` from `"normal_installed"` to `"allowed"`.
@@ -51,4 +51,4 @@ $ rm -rf $HOME/.mozilla
 ## LICENSE
 Mozilla Public License Version 2.0
 
-Copyright (c) 2022-2023 Andrea Varesio <https://www.andreavaresio.com>
+Copyright (C) 2022-2023 Andrea Varesio <https://www.andreavaresio.com>
