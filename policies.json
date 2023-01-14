@@ -1,5 +1,5 @@
 {
-    "version": "20230114.01",
+    "version": "20230114.02",
     "policies": {
         "AppAutoUpdate": false,
         "BackgroundAppUpdate": false,
@@ -178,6 +178,10 @@
             "browser.urlbar.suggest.topsites": {
                 "Status": "locked",
                 "Value": false
+            },
+            "dom.disable_window_flip": {
+                "Status": "locked",
+                "Value": true
             },
             "dom.security.https_only_mode": {
                 "Status": "locked",
