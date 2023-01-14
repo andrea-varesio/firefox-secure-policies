@@ -1,5 +1,5 @@
 {
-    "version": "20221223.01",
+    "version": "20230114.01",
     "policies": {
         "AppAutoUpdate": false,
         "BackgroundAppUpdate": false,
@@ -164,6 +164,10 @@
         },
         "Preferences": {
             "browser.cache.disk.enable": {
+                "Status": "locked",
+                "Value": false
+            },
+            "browser.search.update": {
                 "Status": "locked",
                 "Value": false
             },
