@@ -1,5 +1,5 @@
 {
-    "version": "20230114.02",
+    "version": "20230117.01",
     "policies": {
         "AppAutoUpdate": false,
         "BackgroundAppUpdate": false,
@@ -84,8 +84,8 @@
             "ddg@search.mozilla.org": {
                 "installation_mode": "allowed"
             },
-            "https-everywhere@eff.org": {
-                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/https-everywhere/latest.xpi",
+            "https-everywhere-eff@eff.org": {
+                "install_url": "https://www.eff.org/files/https-everywhere-latest.xpi",
                 "installation_mode": "allowed"
             },
             "jid1-BoFifL9Vbdl2zQ@jetpack": {
