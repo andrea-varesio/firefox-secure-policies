@@ -1,5 +1,5 @@
 {
-    "version": "20230117.02",
+    "version": "20230119.01",
     "policies": {
         "AppAutoUpdate": false,
         "BackgroundAppUpdate": false,
@@ -33,6 +33,7 @@
         },
         "DisableSetDesktopBackground": true,
         "DisableTelemetry": true,
+        "DisplayBookmarksToolbar": "newtab",
         "DontCheckDefaultBrowser": true,
         "EnableTrackingProtection": {
             "Cryptomining": true,
